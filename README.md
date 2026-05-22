@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: SURYA CHANDRA R    </h3>
-<h3>Register Number: 212224060271           </h3>
+<h3>Name: SUBASHREE M    </h3>
+<h3>Register Number: 212224060262           </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
